@@ -1,6 +1,10 @@
 # 💫 About Me:
 Full-Stack AI Builder & B.Tech AIDS student. I leverage AI coding tools (Cursor, Copilot) to stitch APIs, TypeScript frontends, and Python ML backends into work
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <img alt="arshiya7412's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arshiysana_7412/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshiyasana7412/) [![@](https://img.shields.io/badge/@threads-black.svg?logo=@&logoColor=white)](https://www.threads.com/@arshiysana_7412) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshiyasana2006@gmail.com) 
